@@ -31,24 +31,24 @@ I am an aspiring **Full-Stack Java Developer** currently pursuing my **MCA in Pu
 ### **Languages**
 <p>
   Java, Python, HTML, CSS, JavaScript
-</p><br>
+</p>
 
 ### **Frameworks & Libraries**
 <p>
   Spring Boot, Angular, Node.js, Hibernate
   
-</p><br>
+</p>
 
 ### **Databases**
 <p>
   MySQL, PostgreSQL, MongoDB
 
-</p><br>
+</p>
 
 ### **Tools & Technologies**
 <p>
   Git, GitHub, VS Code, Intellij
-</p><br>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -72,16 +72,6 @@ I am an aspiring **Full-Stack Java Developer** currently pursuing my **MCA in Pu
 
 > 💡 **Note:** Visit my [repositories](https://github.com/Premw12?tab=repositories) to explore more projects!
 
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔭 Building full-stack applications with **Spring Boot** and **React**
-- 📚 Deepening my knowledge of **Microservices Architecture** and **Cloud Technologies**
-- 🌐 Contributing to open-source projects
-- 💻 Solving **Data Structures & Algorithms** problems to strengthen problem-solving skills
-
----
 
 ## 📫 Let's Connect!
 
