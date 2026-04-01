@@ -22,7 +22,7 @@ I am an aspiring **Full-Stack Java Developer** currently pursuing my **MCA in Pu
 - 🌱 **Currently learning:** Advanced Java frameworks and modern web technologies
 - 📍 **Location:** Pune, India
 - 💡 **Passionate about:** Building scalable applications and solving complex problems
-- 📫 **Reach me at:** premwofficial@gmail.com | +91 9699598352
+- 📫 **Reach me at:** premwofficial@gmail.com
 
 ---
 
@@ -52,9 +52,9 @@ I am an aspiring **Full-Stack Java Developer** currently pursuing my **MCA in Pu
 
 ## 🚀 Featured Projects
 
-### 🔹 [Project Name 1](https://github.com/Premw12/project-repo-name)
-**Full-Stack E-Commerce Application** 
-- Built with **Spring Boot, React, MySQL**
+### 🔹 [Grocery Shop Management System](https://github.com/Premw12/Grocery-Shop-Management-System)
+
+- Developed a web-based system to manage grocery store inventory, products, and sales efficiently.**
 - Implements user authentication, product management, and payment integration
 - Features responsive design and RESTful API architecture
 
