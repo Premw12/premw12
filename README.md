@@ -54,21 +54,21 @@ I am an aspiring **Full-Stack Java Developer** currently pursuing my **MCA in Pu
 
 ### 🔹 [Grocery Shop Management System](https://github.com/Premw12/Grocery-Shop-Management-System)
 
-- Developed a web-based system to manage grocery store inventory, products, and sales efficiently.**
-- Implements user authentication, product management, and payment integration
-- Features responsive design and RESTful API architecture
+- Developed a web-based system to manage grocery store inventory, products, and sales efficiently.
+- Implemented features for adding, updating, and deleting product details to simplify store management.
+- Designed a user-friendly interface using HTML, CSS, and JavaScript to improve product tracking and billing.
 
-### 🔹 [Project Name 2](https://github.com/Premw12/project-repo-name)
-**Task Management System**
-- Developed using **Java, JSP/Servlets, PostgreSQL**
-- Role-based access control and real-time task tracking
-- Clean MVC architecture with CRUD operations
+### 🔹 [Hospital Management System](https://github.com/Premw12/HospitalManagementSystem)
 
-### 🔹 [Project Name 3](https://github.com/Premw12/project-repo-name)
-**Blog Platform**
-- Created with **Node.js, Express, MongoDB**
-- Rich text editor, comment system, and user profiles
-- RESTful API with JWT authentication
+- Developed a Hospital Management System to manage patient records, doctor details, and appointment scheduling.
+- Implemented features for patient registration, appointment booking, and medical record management.
+- Designed a simple and responsive interface to improve hospital workflow and data management.
+
+### 🔹 [Camera Operator](https://github.com/Premw12/Camera-Operator)
+
+- Built a Camera Operator Management System to manage operator bookings and task assignments.
+- Implemented features for scheduling projects, managing operator availability, and handling billing.
+- Designed a system to organize production workflow and improve project coordination.
 
 > 💡 **Note:** Visit my [repositories](https://github.com/Premw12?tab=repositories) to explore more projects!
 
